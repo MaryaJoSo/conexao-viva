@@ -100,8 +100,11 @@ docker-compose up --build
 
 ## 👨‍💻 Equipe
 
-- João Sodré (responsável principal)
-- Outros membros (se houver)
+- Karine Duarte
+- Maria Sousa
+- Mateeus Camurca
+- Francisco Matheus
+- Cleany Teixeira
 - Professor colaborador: `profmiqueias`
 
 ---
