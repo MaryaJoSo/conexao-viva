@@ -1,0 +1,23 @@
+version: '3.9'
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    networks:
+      - conexaoviva
+    restart: always
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
+    networks:
+      - conexaoviva
+    restart: always
+    depends_on:
+      - backend
+
+networks:
+  conexaoviva:
