@@ -1,21 +1,42 @@
 # vite ⚡
 
-> Next Generation Frontend Tooling
+⚡ Vite - Next Generation Frontend Tooling
+Vite (palavra francesa para "rápido", pronunciada /vit/) é uma ferramenta de build de frontend de nova geração, que melhora significativamente a experiência de desenvolvimento. Ela se destaca pela sua velocidade, simplicidade e extensibilidade.
 
-- 💡 Instant Server Start
-- ⚡️ Lightning Fast HMR
-- 🛠️ Rich Features
-- 📦 Optimized Build
-- 🔩 Universal Plugin Interface
-- 🔑 Fully Typed APIs
+🚀 Principais Recursos
+💡 Inicialização instantânea do servidor de desenvolvimento
 
-Vite (French word for "fast", pronounced `/vit/`) is a new breed of frontend build tool that significantly improves the frontend development experience. It consists of two major parts:
+⚡️ Hot Module Replacement (HMR) ultrarrápido
 
-- A dev server that serves your source files over [native ES modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules), with [rich built-in features](https://vite.dev/guide/features.html) and astonishingly fast [Hot Module Replacement (HMR)](https://vite.dev/guide/features.html#hot-module-replacement).
+🛠️ Conjunto rico de funcionalidades integradas
 
-- A [build command](https://vite.dev/guide/build.html) that bundles your code with [Rollup](https://rollupjs.org), pre-configured to output highly optimized static assets for production.
+📦 Build otimizada para produção
 
-In addition, Vite is highly extensible via its [Plugin API](https://vite.dev/guide/api-plugin.html) and [JavaScript API](https://vite.dev/guide/api-javascript.html) with full typing support.
+🔩 Interface universal para plugins
 
-[Read the Docs to Learn More](https://vite.dev).
-.
+🔑 APIs totalmente tipadas
+
+🛠️ Como Funciona
+Vite é composto por duas partes principais:
+
+Servidor de Desenvolvimento:
+Serve seus arquivos-fonte utilizando módulos ES nativos com recursos integrados poderosos e Hot Module Replacement (HMR) extremamente rápido.
+
+Comando de Build:
+Realiza o empacotamento da sua aplicação utilizando o Rollup, configurado para gerar ativos estáticos altamente otimizados para produção.
+
+Além disso, Vite é altamente extensível através de sua API de Plugins e API JavaScript, ambas com suporte completo a TypeScript.
+
+📚 Documentação
+Para saber mais, acesse a Documentação Oficial.
+
+👥 Equipe de Desenvolvimento
+Cleany Teixeira Viana
+
+Erika Karine Duarte da Silva
+
+Maria José de Sousa
+
+Mateus Araújo Camurça
+
+Francisco Matheus
